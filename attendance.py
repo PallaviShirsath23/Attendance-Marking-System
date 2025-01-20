@@ -1,5 +1,5 @@
 import cv2
-import o
+import os
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
