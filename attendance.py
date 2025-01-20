@@ -1,6 +1,6 @@
 import cv2
 import os
-import numpy as np
+import numpy as n
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
 import pandas as pd
