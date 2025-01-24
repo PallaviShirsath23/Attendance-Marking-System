@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
-from sklearn.svm import SC
+from sklearn.svm import SVC
 import pandas as pd
 from datetime import datetime, timedelta
 
